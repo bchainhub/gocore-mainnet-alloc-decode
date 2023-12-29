@@ -10,7 +10,7 @@ Install [Golang](https://go.dev/doc/install) and [Git](https://github.com/git-gu
 Clone this repo to your local environment
 
 ```bash
-git clone git@github.com:error2215/gocore-mainnet-alloc-decode.git
+git clone git@github.com:bchainhub/gocore-mainnet-alloc-decode.git
 ```
 
 # Usage
